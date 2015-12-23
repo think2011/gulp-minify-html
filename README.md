@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/murphydanger/gulp-minify-html.png?branch=master)](https://travis-ci.org/murphydanger/gulp-minify-html)
 
+# Deprecation warning
+This package has been deprecated in favor of [`gulp-htmlmin`](https://github.com/jonschlinkert/gulp-htmlmin), which should be faster and more comprehensive.
+
 ## Regarding Issues
 
 _Remember, this plugin is only a thin wrapper around [`minimize`](https://github.com/Moveo/minimize)._
