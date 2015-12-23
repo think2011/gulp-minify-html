@@ -1,0 +1,31 @@
+{
+  "name": "gulp-minify-html",
+  "description": "Minify html with minimize.",
+  "version": "1.0.4",
+  "repository": "murphydanger/gulp-minify-html",
+  "author": "Murphy Danger (github.com/murphydanger)",
+  "keywords": [
+    "gulpplugin",
+    "minify",
+    "optimize",
+    "optimise",
+    "compress",
+    "html",
+    "minimize"
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.3",
+    "minimize": "^1.5.0",
+    "through2": "^0.6.1"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -u tdd -R list --globals opts"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "chai": "^2.0.0",
+    "mocha": "^2.1.0"
+  },
+  "license": "MIT"
+}
