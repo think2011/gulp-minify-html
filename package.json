@@ -1,7 +1,7 @@
 {
   "name": "gulp-minify-html",
   "description": "Minify html with minimize.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Murphy Danger (github.com/murphydanger)",
   "keywords": [
     "gulpplugin",
