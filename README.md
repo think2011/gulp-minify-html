@@ -14,7 +14,7 @@ If  you are having **HTML related issues**, please consider looking into [`minim
 [Use npm.](https://docs.npmjs.com/cli/install)
 
 ```
-npm install --save-dev gulp-minify-css
+npm install --save-dev gulp-minify-html
 ```
 
 ## API
